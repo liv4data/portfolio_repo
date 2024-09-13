@@ -5,11 +5,11 @@ url: "github.io"
 
 header_pages:
   - index.md
-  - olivia.md
   - about.md
-  - contact.md
 
-style: hacker
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
 
 # Build settings
 markdown: kramdown
