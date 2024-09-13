@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 [Study History Database](https://github.com/liv4data/clinical_studies/blob/90fa7795fac053c30f122aaf04e36f587fcf507c/Study%20History%20Database/Database-README.md) Database I created using Microsoft Access collecting information related to the various research studies and clinical trials my site has conducted. A work in progress.
 
 [Power BI Expense Report](https://github.com/liv4data/clinical_studies/blob/90fa7795fac053c30f122aaf04e36f587fcf507c/expense_report/PowerBI-Expense-Report.pdf) Designed dashboard/report of division expenses for the 2024 Fiscal Year. I received the data from our Program Manager monthly to update and send to the department chair.
+
+# resume
