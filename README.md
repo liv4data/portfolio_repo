@@ -1,4 +1,5 @@
 # About Me
+![Headshot](https://github.com/liv4data/portfolio/blob/5fe74b8e5781ed8d7864507f01cc241793bdc4ed/IMG_3180.jpg)
 👋 Hi, I’m Olivia Ross. I currently work in clinical research and concurrently pursuing my Master's in Data Science. 
 
 <!---
