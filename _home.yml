@@ -5,8 +5,6 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.liv4data.github.io/portfolio
 
 project_entries:
   - title: MPH Practicum
