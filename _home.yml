@@ -10,10 +10,10 @@ navbar_entries:
 
 project_entries:
   - title: MPH Practicum
-    url: practicum.md
-    desc: This is an example project, configured in _data/home.yml
+    url: https://github.com/liv4data/mph-practicum/blob/17cf2b22a6494baad0335ab25b5c2dfc6ea49fac/README.md
+    desc: Documentation related to my community practicum project I completed to earn my MPH. 
 
-  - title: Project 2
+  - title: Study History Database
     url: overview-post
     desc: Projects are shown in card layout
 
